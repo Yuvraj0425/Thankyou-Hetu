@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Love ❤️</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffe6e6;
+            padding: 50px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 0px 10px gray;
+            max-width: 500px;
+            margin: auto;
+        }
+        h1 {
+            color: #ff4d4d;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        .photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>For Hetvi Patel 🦁❤️</h1>
+        <img src="your-image-link.jpg" alt="Her Photo" class="photo">
+        <p>Thank you so much for the beautiful wallet! It’s not just a gift, it’s a reminder of your love, care, and thoughtfulness. Every time I open it and see your picture inside, I feel like you are always with me, no matter where I go. 💖</p>
+        <p>You have no idea how much this means to me. It’s not just about the wallet; it’s about the love behind it. You always know how to make me feel special, and I’m so grateful to have you in my life. 🥰</p>
+        <p>I promise to cherish this gift as much as I cherish you. You are my happiness, my love, and my forever. ❤️🦋</p>
+        <p><strong>Yours forever,</strong></p>
+        <p><strong>Your ( Mendhak ) 🐸</strong></p> 
+    </div>
+</body>
+</html>
